@@ -4,10 +4,10 @@
 Jiesysadmin centos 是用 Python 开发的，用于部署在centOS中远程管理系统的工具系统
 
 ## 地址：
-个人主页Github: https://gitee.com/cosyjie
-项目github:	https://github.com/cosyjie/jiesysadmin-centos-package
-个人主页Gitee:  https://gitee.com/cosyjie
-项目gitee: https://gitee.com/cosyjie/jiesysadmin-centos-package
+个人主页Github: https://gitee.com/cosyjie  
+项目github:	https://github.com/cosyjie/jiesysadmin-centos-package 
+个人主页Gitee:  https://gitee.com/cosyjie  
+项目gitee: https://gitee.com/cosyjie/jiesysadmin-centos-package  
 
 ## 注意
 
@@ -47,11 +47,11 @@ Jiesysadmin centos 是用 Python 开发的，用于部署在centOS中远程管�
 3. sh rung.sh 将使用gunicorn运行
 
 ## IT阿杰媒体帐号
-哔哩哔哩：https://space.bilibili.com/379283376
-51CTO: https://edu.51cto.com/lecturer/12831258.html
-西瓜视频： https://www.ixigua.com/home/2173081594629741
-百家号： https://author.baidu.com/home/1754716766171856
-抖音号：itjie
+哔哩哔哩：https://space.bilibili.com/379283376  
+51CTO: https://edu.51cto.com/lecturer/12831258.html  
+西瓜视频： https://www.ixigua.com/home/2173081594629741  
+百家号： https://author.baidu.com/home/1754716766171856  
+抖音号：itjie  
 
 ## 授权
  GPL-3.0
