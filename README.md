@@ -17,10 +17,10 @@ Jiesysadmin centos 是用 Python 开发的，用于部署在centOS中远程管�
 ## 安装教程
 
 当前为部署包库。安装方法如下：
-
-1.  将所有的文件包和文件都上传到 /opt 目录中
-2.  运行 sh /opt/install01.sh 等待自动安装完成
-3.  运行 sh /opt/install02.sh 等待自动安装完成
+1.  登录 root 权限的帐号
+2.  将所有的文件包和文件都上传到 /opt 目录中
+3.  运行 sh /opt/install01.sh 等待自动安装完成
+4.  运行 sh /opt/install02.sh 等待自动安装完成
 
 安装完成将自动生成随机用户名和密码，请注意记录。
 
