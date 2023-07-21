@@ -39,8 +39,3 @@ Jiesysadmin centos 是用 Python 开发的，用于部署在centOS中远程管�
 1. systemctl stop jiesysadmin.service 关闭服务
 2. 进入项目目录
 3. sh rung.sh 将使用gunicorn运行
-
-
-![](readme/network.jpg)
-
-![](readme/process.jpg)
