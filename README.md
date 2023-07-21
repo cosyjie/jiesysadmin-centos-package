@@ -1,4 +1,4 @@
-# jiesysadmin-centos-code
+# jiesysadmin-centos-package
 
 ## 介绍
 Jiesysadmin centos 是用 Python 开发的，用于部署在centOS中远程管理系统的工具系统
