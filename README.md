@@ -5,7 +5,7 @@ Jiesysadmin centos 是用 Python 开发的，用于部署在centOS中远程管�
 
 ## 地址：
 个人主页Github: https://gitee.com/cosyjie  
-项目github:	https://github.com/cosyjie/jiesysadmin-centos-package 
+项目github:	https://github.com/cosyjie/jiesysadmin-centos-package  
 个人主页Gitee:  https://gitee.com/cosyjie  
 项目gitee: https://gitee.com/cosyjie/jiesysadmin-centos-package  
 
