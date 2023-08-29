@@ -55,7 +55,7 @@ source /root/.bash_profile
 mkdir /cosyjieserver/jiesysadmin/
 cd /opt/
 
-#tar -zxvf jiesysadmin.tar.gz
-#mv jiesysadmin /cosyjieserver/
+tar -zxvf jiesysadmin.tar.gz
+mv jiesysadmin /cosyjieserver/
 
 exec "$SHELL"
