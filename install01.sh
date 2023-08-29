@@ -52,7 +52,7 @@ source /root/.profile
 source /root/.bashrc
 source /root/.bash_profile
 
-mkdir /cosyjieserver/jiesysadmin/
+mkdir /cosyjieserver/
 cd /opt/
 
 tar -zxvf jiesysadmin.tar.gz
