@@ -1,0 +1,13 @@
+[Unit]  
+Description=jiesysadmin daemon
+After=network.target  
+  
+[Service]  
+User=root
+Group=root
+WorkingDirectory=/cosyjieserver/jiesysadmin
+ExecStart=/root/.pyenv/versions/3.10.12/envs/jiesysadmin310/bin/gunicorn -b :8000 --chdir  '/cosyjieserver/jiesysadmin' --reload --name 'jiesysadmin' -t 1800 conf.wsgi
+Restart=always
+  
+[Install]  
+WantedBy=multi-user.target
