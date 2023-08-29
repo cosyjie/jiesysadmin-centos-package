@@ -58,11 +58,11 @@ sh uninstall.sh
 3. sh rung.sh 将使用gunicorn运行
 
 ## IT阿杰媒体帐号
-哔哩哔哩：https://space.bilibili.com/379283376 
-51CTO: https://edu.51cto.com/lecturer/12831258.html 
+哔哩哔哩：https://space.bilibili.com/379283376  
+51CTO: https://edu.51cto.com/lecturer/12831258.html  
 西瓜视频： https://www.ixigua.com/home/2173081594629741  
-百家号： https://author.baidu.com/home/1754716766171856 
-抖音号：itjie 
+百家号： https://author.baidu.com/home/1754716766171856  
+抖音号：itjie  
 
 ## 授权
  GPL-3.0
